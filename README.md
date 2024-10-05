@@ -11,7 +11,7 @@ Este projeto é um aplicativo em Flutter que permite buscar endereços através 
 - Um dispositivo Android ou um emulador para executar o aplicativo.
 
 # Execução do projeto
--  git clone https://github.com/guibatistella89/desafio1.git
+-  git clone https://github.com/guibatistella89/Desenvolvimento-Mobile
 -  cd desafio1(navegar até a pasta)
 -  flutter pub get (instalar dependências)
 -  flutter run(rodar o aplicativo)
